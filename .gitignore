@@ -1,3 +1,13 @@
+# Custom
+.DS_Store
+.vscode/
+output/
+tests/
+examples/
+data/
+*.mp4
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

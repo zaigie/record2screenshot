@@ -1,0 +1,20 @@
+# web framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# data model
+pydantic>=2.4.0
+
+# image processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# video processing
+ffmpeg-python>=0.2.0
+
+# command line tool
+click>=8.1.0
+
+# type hint
+typing-extensions>=4.8.0
